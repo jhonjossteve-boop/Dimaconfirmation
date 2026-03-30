@@ -7,7 +7,7 @@ const BOOKING = {
   fanName: "МАРИЯ",
   location: "Four Seasons Hotel Moscow",
   roomType: "Номер Premier King",
-  dates: [" марта 2025", " марта 2026"],
+  dates: [" марта 2026", " марта 2026"],
   status: "ПОЛНОСТЬЮ ОПЛАЧЕНО И ПОДТВЕРЖДЕНО",
   category: "VIP Встреча",
   bookedOn: "26 марта 2026",
